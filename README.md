@@ -1,1 +1,1 @@
-# SamungPractice
+# SamsungPractice
